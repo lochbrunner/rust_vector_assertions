@@ -4,6 +4,11 @@ version = "0.1.0"
 authors = ["Matthias Lochbrunner <matthias_lochbrunner@web.de>"]
 edition = "2018"
 
+description = "Assert library for vector like container"
+license = "MIT"
+homepage= "https://github.com/lochbrunner/rust_vector_assertions"
+repository = "https://github.com/lochbrunner/rust_vector_assertions"
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
